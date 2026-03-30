@@ -175,6 +175,10 @@ footer {
     color: #FAFAFA;
     text-decoration: none;
   }
+
+  a:hover {
+    text-decoration: underline;
+  }
 }
 
 .footer-wrapper {
